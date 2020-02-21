@@ -1,0 +1,13 @@
+.btn-discover {
+  background-color: #5A716A;
+  padding: 10px 30px;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  border-radius: 4px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-family: "Raleway", sans-serif;
+}
+.btn-discover: hover {
+  box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.4);
+}

@@ -1,0 +1,20 @@
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/button.css");
+
+body { 
+	background-color: #5E807F;
+}
+h3 { 
+  color: black;
+  font-family: 'Tomorrow', sans-serif;
+  font-size: 40px;
+  text-align: center;	
+ }
+
+.banner{
+	text-align: center;
+}
+.mail{
+    color: black;
+}

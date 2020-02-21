@@ -1,0 +1,14 @@
+.banner{
+	background-image: url(https://www.bing.com/images/search?view=detailV2&id=F3348F7BF9B63AD0DB879E6883C4E5A238C1F1E6&thid=OIP.uCQSopS6i5tvd3f93E2eIgHaCg&mediaurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F97%2Fee%2F0d%2F97ee0d2cc04fac5318a3997c32ed3c66.jpg&exph=271&expw=800&q=banni%c3%a8re+beaut%c3%a9+&selectedindex=28&ajaxhist=0&vt=0&eim=1,6);
+	color: black;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner img {
+	text-align: left;
+	width: 700px;
+	height: 600px;
+	
+}
+
